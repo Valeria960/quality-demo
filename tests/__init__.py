@@ -1,1 +1,1 @@
-
+"""Tests for calculator module."""
